@@ -6,7 +6,7 @@ The project is organized into the following folders:
 
 crc: Contains the R script used to perform the calculations. You can modify the parameters of the RF and GRF models as needed.
 input: Includes a text file with the link to download the input data required to run the R script. You must unzip the downloaded file inside the input folder.
-output: Stores the results after running the script.
+output: Stores the results after running the script. Create it inside the RF or GRF main folder.
 
 ## Usage
 To use the app, run the R script in the crc folder. The input data should be downloaded following the instructions in the input folder. Once the script is executed, the results will be saved in the output folder.
